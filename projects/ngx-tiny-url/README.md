@@ -2,7 +2,7 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
-An angular library to shorten url using [TinyUrl](https://tinyurl.com/) api. Works on angular version 16+
+An angular library to shorten url using [TinyUrl](https://tinyurl.com/) api. Works on angular version 16
 
 ## Installation
 
