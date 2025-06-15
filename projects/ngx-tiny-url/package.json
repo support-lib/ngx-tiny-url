@@ -1,6 +1,6 @@
 {
   "name": "ngx-tiny-url",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular 16 library to shorten url",
   "peerDependencies": {
     "@angular/common": "^16.2.0",
