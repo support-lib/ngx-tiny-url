@@ -49,3 +49,8 @@ export class AppComponent {
     }
 }
 ```
+
+
+## License
+
+MIT ©
