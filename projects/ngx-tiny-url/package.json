@@ -1,0 +1,29 @@
+{
+  "name": "ngx-tiny-url",
+  "version": "0.0.1",
+  "description": "Angular 16 library to shorten url",
+  "peerDependencies": {
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/support-lib/ngx-tiny-url"
+  },
+  "bugs": {
+    "url": "https://github.com/support-lib/ngx-tiny-url/issues"
+  },
+  "homepage": "https://github.com/support-lib/ngx-tiny-url/blob/main/README.md",
+  "keywords": [
+    "url", 
+    "short url",
+    "url shortener",
+    "ngx tinyUrl",
+    "tinyurl",
+    "tiny url"
+  ],
+  "sideEffects": false
+}
