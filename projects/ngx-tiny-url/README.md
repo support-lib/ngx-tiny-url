@@ -1,8 +1,16 @@
 # NgxTinyUrl
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
-
 An angular library to shorten url using [TinyUrl](https://tinyurl.com/) api. Works on angular version 16
+
+## Dependencies
+
+Latest version available for each version of Angular
+
+| ngx-tiny-url | Angular       |
+| ------------ | ----------    |
+| 0.0.2        | >=12.x <=16.x |
+| 1.0.0        | >= 17.x       |
+
 
 ## Installation
 
@@ -16,7 +24,7 @@ $ npm install ngx-tiny-url
 
 ```typescript
 
-import {NgxTinyUrlModule} from 'ngx-tiny-url';
+import { NgxTinyUrlModule } from 'ngx-tiny-url';
 
 @NgModule({
   declarations: [
@@ -35,7 +43,7 @@ export class AppModule { }
 Once imported in your module, inject the NgxTinyUrlService into your component as shown below: 
 
 ```typescript
-import {NgxTinyUrlService} from 'ngx-tiny-url';
+import { NgxTinyUrlService } from 'ngx-tiny-url';
 
 
 export class AppComponent {
