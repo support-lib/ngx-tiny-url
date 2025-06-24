@@ -9,7 +9,7 @@ Latest version available for each version of Angular
 | ngx-tiny-url | Angular       |
 | ------------ | ----------    |
 | 0.0.2        | >=12.x <=16.x |
-| 1.0.0        | >= 17.x       |
+| 1.0.2        | >= 17.x       |
 
 
 ## Installation
